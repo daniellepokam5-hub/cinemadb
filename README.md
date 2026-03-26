@@ -8,4 +8,5 @@ Navicat for MySQL
  pour gérer la base de données
 Python 3.x (si vous utilisez des scripts Python pour interroger la base)
 Module Python mysql-connector-python pour la connexion à MySQL
-Lien de la base de donnée : navicat://database.mysql@local/A43897c718e93de5/cinemadb?Database.Name=cinemadb&Conn.Host=localhost&Conn.Name=Ma%20Connexion%20a%20Mysql&Conn.Port=3306&Conn.UseHTTP=false&Conn.UseSSH=false&Conn.UseSSL=false&Conn.UseSocketFile=false&Conn.Username=root
+<img width="1257" height="652" alt="image" src="https://github.com/user-attachments/assets/f0436ea8-2dc0-49b2-b3da-4e11f0234d49" />
+
